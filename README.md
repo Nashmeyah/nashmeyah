@@ -14,13 +14,8 @@ My name is Nashmeyah Al-Rekabi, junior software engineer. I am an arabian 25 yea
 
 My hobbies include: playing video games, artist, and watching animes and movies.
 
-If you have any questions or woulld like to collaborate, please contact me.
-## Here is what I do
+If you have any questions or woulld like to collaborate, please contact me. My email is nashalrekabi@gmail.com or my social accounts.
 <p>
-  <img
-    alt="email"
-    src="https://img.shields.io/badge/Email-1DA1F2?logo=email&logoColor=white&style=for-the-badge"
-  />
 <a href="https://twitter.com/Nshmy41964190">
   <img
     alt="Twitter"
@@ -31,6 +26,12 @@ If you have any questions or woulld like to collaborate, please contact me.
   <img
     alt="Linkedin"
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
+  />
+</a>
+  <a href="https://www.nashmeyah.com">
+  <img
+    alt="portfolio"
+    src="https://img.shields.io/badge/Portfolio-A42E2B?logo=linkedin&logoColor=white&style=for-the-badge"
   />
 </a>
 </p>
