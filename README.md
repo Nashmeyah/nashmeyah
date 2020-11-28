@@ -4,7 +4,7 @@
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
   <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby3&logoColor=white&style=for-the-badge" />
-  <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby on Rails-CC0000?logo=rubyonrails3&logoColor=white&style=for-the-badge" />
+  <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby on Rails-CC0000?logo=ruby-on-rails3&logoColor=white&style=for-the-badge" />
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java3&logoColor=white&style=for-the-badge" />
  
 </p>
@@ -31,7 +31,7 @@ If you have any questions or woulld like to collaborate, please contact me. My e
   <a href="https://www.nashmeyah.com">
   <img
     alt="portfolio"
-    src="https://img.shields.io/badge/Portfolio-A42E2B?logo=linkedin&logoColor=white&style=for-the-badge"
+    src="https://img.shields.io/badge/Portfolio-A42E2B?logo=&logoColor=white&style=for-the-badge"
   />
 </a>
 </p>
