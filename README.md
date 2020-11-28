@@ -8,7 +8,7 @@
   <img alt="Java" src="https://img.shields.io/badge/java-007396?logo=java&logoColor=white&style=for-the-badge" />
   <img alt="PostgresSQL" src="https://img.shields.io/badge/postgressql-336791?logo=postgressql&logoColor=white&style=for-the-badge" />
   <img alt="php" src="https://img.shields.io/badge/php-336791?logo=php&logoColor=white&style=for-the-badge" />
-  <img alt="Linux" src="https://img.shields.io/badge/php-777BB4?logo=php&logoColor=white&style=for-the-badge" />
+  <img alt="Linux" src="https://img.shields.io/badge/linux-FCC624?logo=linux&logoColor=white&style=for-the-badge" />
  
 </p>
 <img src="/pngfuel.com (18).png" alt="banner" align="center" height=100px; width=100px;/>
