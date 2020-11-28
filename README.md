@@ -3,7 +3,7 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
-  <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?logo=Ruby3&logoColor=white&style=for-the-badge" />
+  <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby3&logoColor=white&style=for-the-badge" />
   <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby on Rails-CC0000?logo=rubyonrails3&logoColor=white&style=for-the-badge" />
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java3&logoColor=white&style=for-the-badge" />
  
